@@ -1,0 +1,21 @@
+# created by virtualenv automatically
+# Virtual environment
+.venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# FAISS index files (optional)
+faiss_index/
+
+# Uploaded files (optional)
+static/uploads/
+
