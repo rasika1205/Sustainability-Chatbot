@@ -95,6 +95,8 @@ However, you may **not copy, modify, redistribute, or claim this project as your
 
 ---
 
-Feel free to explore the code.
+## 🧑‍💻 Author
 
-_Developed with 💡 by [Rasika Gautam](https://github.com/rasika1205)_
+**Rasika Gautam**
+*Data Science & AI Enthusiast* | B.Tech MAC, NSUT
+[GitHub](https://github.com/rasika1205)
